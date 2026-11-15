@@ -2,6 +2,7 @@
 <h3 align="center">Full-Stack Engineer · Next.js · React · Node.js · TypeScript · Python · AI & Automation</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/nauman-arshad-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nauman.arshad483@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-2EA44F?style=for-the-badge" alt="Open to remote roles"/>
@@ -20,6 +21,7 @@ I'm a full-stack engineer with **5+ years of experience** building production we
 - ✅ **Quality-first** — I debug flaky systems and refactor legacy code into clean, production-ready shape
 
 💼 **Open to:** full-time remote roles, contract work, and freelance projects.<br/>
+🔗 **LinkedIn:** [linkedin.com/in/nauman-arshad-dev](https://www.linkedin.com/in/nauman-arshad-dev/)<br/>
 📫 **Reach me at:** [nauman.arshad483@gmail.com](mailto:nauman.arshad483@gmail.com)
 
 ---
@@ -71,5 +73,6 @@ I'm a full-stack engineer with **5+ years of experience** building production we
 I'm currently **open to new opportunities**. If you're hiring for a full-stack, AI, or automation role — or need help shipping a product — I'd love to hear from you.
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/nauman-arshad-dev/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nauman.arshad483@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Get%20in%20touch-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me"/></a>
 </p>
