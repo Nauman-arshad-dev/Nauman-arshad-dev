@@ -47,13 +47,13 @@ I'm a full-stack engineer with **5+ years of experience** building production we
 | Project | What it does | Stack |
 |---|---|---|
 | 🤖 **[Resume Automator](https://github.com/Nauman-arshad-dev/resume-automator)** | Open-source AI resume tailor & ATS optimizer. Analyses a job description, tailors the resume truthfully, reviews it like an ATS and a recruiter, and exports an ATS-friendly .docx. | Python · Claude AI · Streamlit · CLI |
-| 📈 **[NowSpike](https://github.com/Nauman-arshad-dev/nowspike)** | Full-stack Next.js platform with authentication, Google APIs integration, file uploads, and SEO-ready sitemaps. | Next.js · NextAuth · MongoDB · Vercel Blob |
+| 📈 **[NowSpike](https://github.com/Nauman-arshad-dev/nowspike)** · [Live ↗](https://nowspike.vercel.app) | Full-stack Next.js platform with authentication, Google APIs integration, file uploads, and SEO-ready sitemaps. | Next.js · NextAuth · MongoDB · Vercel |
+| 📨 **[Bulk SMS Platform](https://github.com/Nauman-arshad-dev/Bulk-sms-sender)** | Full-stack bulk SMS system: CSV contact import, campaign management, GSM-modem sending over serial port, user auth and analytics. | React · Express · PostgreSQL · Drizzle ORM |
 | 📞 **[AI Receptionist](https://github.com/Nauman-arshad-dev/AI-Receptionist-blue)** | Modern, responsive web app for an AI-powered virtual receptionist service. | Next.js · TypeScript · Tailwind · Radix UI |
-| ⚙️ **[Automation Framework](https://github.com/Nauman-arshad-dev/automation-framework)** | Reliability-focused automation for dynamic web platforms — handling flaky behaviour, edge cases, and brittle code. | Browser automation |
-| 🔍 **[AI Code Review Toolkit](https://github.com/Nauman-arshad-dev/ai-code-review-toolkit)** | Toolkit for finding logic errors, missed edge cases, inefficiencies and security issues in AI-generated and human-written code. | Backend · Code quality |
 | 🪙 **[Solana Staking dApp](https://github.com/Nauman-arshad-dev/staking-sol)** | Solana staking decentralized application with wallet integration and a React front end. | Solana · TypeScript · React |
+| 💰 **[Budget Buddy](https://github.com/Nauman-arshad-dev/Budget-Buddy)** | Personal finance tracker that budgets expenses against income, with interactive charts. | Next.js · React · JavaScript |
 
-➡️ **More work:** [Budget Buddy](https://github.com/Nauman-arshad-dev/Budget-Buddy) (personal finance tracker with charts) · [Mortgage](https://github.com/Nauman-arshad-dev/mortgage) · [Bulk SMS Sender](https://github.com/Nauman-arshad-dev/Bulk-sms-sender) · [Delance](https://github.com/Nauman-arshad-dev/Delance) (blockchain freelance marketplace)
+➡️ **More work:** [Mortgage App](https://github.com/Nauman-arshad-dev/mortgage) · [AI Code Review Toolkit](https://github.com/Nauman-arshad-dev/ai-code-review-toolkit) · [Automation Framework](https://github.com/Nauman-arshad-dev/automation-framework) · [Delance](https://github.com/Nauman-arshad-dev/Delance) (blockchain dApp)
 
 ---
 
