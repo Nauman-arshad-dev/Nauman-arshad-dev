@@ -59,15 +59,6 @@ I'm a full-stack engineer with **5+ years of experience** building production we
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nauman-arshad-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nauman-arshad-dev&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages"/>
-</p>
-
----
-
 ## 🤝 Let's Work Together
 
 I'm currently **open to new opportunities**. If you're hiring for a full-stack, AI, or automation role — or need help shipping a product — I'd love to hear from you.
